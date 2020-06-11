@@ -1,3 +1,15 @@
+Step 1:
+git clone https://github.com/SanjanaGurukar/PokeDex.git
+
+Step 2:
+cd [local repository]
+
+Step 3: 
+npm install
+
+Step 4:
+npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
